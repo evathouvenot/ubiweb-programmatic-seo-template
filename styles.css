@@ -247,12 +247,16 @@ p {
 }
 
 .solution-item {
-    display: grid;
-    grid-template-columns: 80px 1fr;
+    display: flex;
     gap: 2rem;
     padding: 2rem;
     background: #f8f9fa;
     border-radius: 10px;
+    align-items: flex-start;
+}
+
+.solution-content {
+    flex: 1;
 }
 
 .solution-number {
@@ -749,8 +753,12 @@ blockquote {
     }
     
     .solution-item {
-        grid-template-columns: 1fr;
+        flex-direction: column;
         text-align: center;
+    }
+    
+    .solution-number {
+        align-self: center;
     }
     
     .testimonial-content {
