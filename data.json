@@ -1,0 +1,345 @@
+{
+  "template_data": {
+    "trades": {
+      "plumber": {
+        "name": "Plumber",
+        "service_name": "Plumbing",
+        "plural": "plumbers",
+        "hero_title": "{{city}}'s #1 {{trade}} Marketing Agency",
+        "hero_subtitle": "Get 20+ qualified {{service}} jobs every month with our proven digital marketing system. We speak contractor - not corporate.",
+        "pain_points": [
+          "Your phone isn't ringing with plumbing emergency calls",
+          "HomeAdvisor and TaskRabbit charge $50+ per lead with high competition",
+          "Generic agencies don't understand plumbers or your business needs"
+        ],
+        "services_provided": [
+          "Emergency plumbing repairs",
+          "Drain cleaning and unclogging",
+          "Pipe installation and repair",
+          "Water heater services",
+          "Bathroom and kitchen plumbing",
+          "Commercial plumbing services"
+        ],
+        "keywords": [
+          "emergency plumber {{city}}",
+          "plumber near me {{city}}",
+          "water leak repair {{city}}",
+          "drain cleaning {{city}}",
+          "residential plumber {{city}}",
+          "commercial plumber {{city}}"
+        ],
+        "avg_cpc": "$31",
+        "monthly_searches": 130,
+        "competition": "LOW"
+      },
+      "hvac": {
+        "name": "HVAC Contractor",
+        "service_name": "HVAC",
+        "plural": "HVAC contractors",
+        "hero_title": "{{city}}'s #1 {{trade}} Marketing Agency",
+        "hero_subtitle": "Get 20+ qualified HVAC jobs every month with our proven digital marketing system. We speak contractor - not corporate.",
+        "pain_points": [
+          "Your HVAC business isn't getting enough heating and cooling calls",
+          "Lead generation services charge premium rates with low-quality leads",
+          "Generic agencies don't understand HVAC seasonal business patterns"
+        ],
+        "services_provided": [
+          "Heating system installation",
+          "Air conditioning repair",
+          "Furnace maintenance",
+          "Ductwork services",
+          "Indoor air quality solutions",
+          "Commercial HVAC services"
+        ],
+        "keywords": [
+          "HVAC contractor {{city}}",
+          "heating repair {{city}}",
+          "air conditioning service {{city}}",
+          "furnace installation {{city}}",
+          "ductwork cleaning {{city}}",
+          "commercial HVAC {{city}}"
+        ],
+        "avg_cpc": "$41",
+        "monthly_searches": 130,
+        "competition": "MEDIUM"
+      },
+      "electrician": {
+        "name": "Electrician",
+        "service_name": "Electrical",
+        "plural": "electricians",
+        "hero_title": "{{city}}'s #1 {{trade}} Marketing Agency",
+        "hero_subtitle": "Get 20+ qualified electrical jobs every month with our proven digital marketing system. We speak contractor - not corporate.",
+        "pain_points": [
+          "Your electrical business isn't getting enough emergency calls",
+          "Online lead services provide low-quality leads at high prices",
+          "Generic agencies don't understand electrical safety and urgency factors"
+        ],
+        "services_provided": [
+          "Emergency electrical repairs",
+          "Panel upgrades and installations",
+          "Wiring and rewiring",
+          "Lighting installation",
+          "Electrical inspections",
+          "Commercial electrical work"
+        ],
+        "keywords": [
+          "electrician {{city}}",
+          "emergency electrician {{city}}",
+          "electrical repair {{city}}",
+          "panel upgrade {{city}}",
+          "electrical inspection {{city}}",
+          "commercial electrician {{city}}"
+        ],
+        "avg_cpc": "$6",
+        "monthly_searches": 100,
+        "competition": "LOW"
+      },
+      "landscaper": {
+        "name": "Landscaper",
+        "service_name": "Landscaping",
+        "plural": "landscapers",
+        "hero_title": "{{city}}'s #1 {{trade}} Marketing Agency",
+        "hero_subtitle": "Get 20+ qualified landscaping projects every month with our proven digital marketing system. We speak contractor - not corporate.",
+        "pain_points": [
+          "Your landscaping business struggles with seasonal customer acquisition",
+          "Competition is fierce for high-value residential projects",
+          "Generic agencies don't understand seasonal landscaping business cycles"
+        ],
+        "services_provided": [
+          "Landscape design and installation",
+          "Lawn maintenance and care",
+          "Tree and shrub services",
+          "Hardscaping and patios",
+          "Seasonal cleanups",
+          "Commercial landscaping"
+        ],
+        "keywords": [
+          "landscaping {{city}}",
+          "landscape design {{city}}",
+          "lawn care {{city}}",
+          "tree services {{city}}",
+          "hardscaping {{city}}",
+          "commercial landscaping {{city}}"
+        ],
+        "avg_cpc": "$13",
+        "monthly_searches": 170,
+        "competition": "MEDIUM"
+      },
+      "roofer": {
+        "name": "Roofer",
+        "service_name": "Roofing",
+        "plural": "roofers",
+        "hero_title": "{{city}}'s #1 {{trade}} Marketing Agency",
+        "hero_subtitle": "Get 20+ qualified roofing jobs every month with our proven digital marketing system. We speak contractor - not corporate.",
+        "pain_points": [
+          "Your roofing business isn't getting enough repair and installation calls",
+          "Storm damage season brings competition from out-of-town contractors",
+          "Generic agencies don't understand roofing emergency and insurance work"
+        ],
+        "services_provided": [
+          "Roof repairs and maintenance",
+          "New roof installations",
+          "Storm damage restoration",
+          "Gutter services",
+          "Roof inspections",
+          "Commercial roofing"
+        ],
+        "keywords": [
+          "roofer {{city}}",
+          "roof repair {{city}}",
+          "roof replacement {{city}}",
+          "storm damage repair {{city}}",
+          "roof inspection {{city}}",
+          "commercial roofing {{city}}"
+        ],
+        "avg_cpc": "$15",
+        "monthly_searches": 80,
+        "competition": "LOW"
+      }
+    },
+    "cities": {
+      "montreal": {
+        "name": "Montreal",
+        "province": "Quebec",
+        "population": "1.78M",
+        "market_share": "15%",
+        "language": "French/English",
+        "phone": "514-665-8455",
+        "testimonial": {
+          "name": "Jean-Marc Rousseau",
+          "business": "Plomberie Expert Montreal",
+          "quote": "ubiweb transformed my plumbing business in Montreal. I went from 5-6 calls per week to 20+ qualified leads per month. Their team understands contractors - they don't just talk marketing fluff, they deliver real jobs.",
+          "results": {
+            "calls_increase": "400%",
+            "revenue_increase": "$15K",
+            "ranking": "#1 Google Ranking"
+          }
+        }
+      },
+      "toronto": {
+        "name": "Toronto",
+        "province": "Ontario",
+        "population": "2.93M",
+        "market_share": "20%",
+        "language": "English",
+        "phone": "416-123-4567",
+        "testimonial": {
+          "name": "Mike Thompson",
+          "business": "Toronto Pro Plumbing",
+          "quote": "ubiweb's Toronto plumber marketing strategy completely changed my business. My phone rings constantly now with quality leads, not tire-kickers. Best investment I've made in 15 years of plumbing.",
+          "results": {
+            "calls_increase": "350%",
+            "revenue_increase": "$18K",
+            "ranking": "#1 Google Ranking"
+          }
+        }
+      },
+      "vancouver": {
+        "name": "Vancouver",
+        "province": "British Columbia",
+        "population": "2.58M",
+        "market_share": "15%",
+        "language": "English",
+        "phone": "604-123-4567",
+        "testimonial": {
+          "name": "David Chen",
+          "business": "Vancouver Elite Plumbing",
+          "quote": "Working with ubiweb was the smartest decision for my Vancouver plumbing company. They understand the local market and deliver consistent, high-quality leads month after month.",
+          "results": {
+            "calls_increase": "425%",
+            "revenue_increase": "$22K",
+            "ranking": "#1 Google Ranking"
+          }
+        }
+      },
+      "calgary": {
+        "name": "Calgary",
+        "province": "Alberta", 
+        "population": "1.34M",
+        "market_share": "8%",
+        "language": "English",
+        "phone": "403-123-4567",
+        "testimonial": {
+          "name": "Robert MacLeod",
+          "business": "Calgary Pro Plumbing",
+          "quote": "ubiweb helped my Calgary plumbing business thrive even during the economic downturn. Their targeted approach brings in steady, qualified leads that convert to paying customers.",
+          "results": {
+            "calls_increase": "300%",
+            "revenue_increase": "$12K",
+            "ranking": "#1 Google Ranking"
+          }
+        }
+      }
+    },
+    "pricing": {
+      "starter": {
+        "name": "Starter",
+        "price": "$997",
+        "description": "Perfect for new {{plural}} looking to establish online presence",
+        "features": [
+          "Professional {{service}} website",
+          "Basic local SEO",
+          "Google My Business setup",
+          "Monthly reporting"
+        ]
+      },
+      "growth": {
+        "name": "Growth",
+        "price": "$1,497",
+        "description": "Complete marketing system for established {{city}} {{plural}}",
+        "features": [
+          "Everything in Starter",
+          "Advanced local SEO",
+          "Google Ads management",
+          "Review management",
+          "Call tracking"
+        ],
+        "popular": true
+      },
+      "dominate": {
+        "name": "Dominate",
+        "price": "$2,497",
+        "description": "Full-scale marketing for large {{city}} {{service}} companies",
+        "features": [
+          "Everything in Growth",
+          "Social media management",
+          "Content marketing",
+          "Advanced analytics",
+          "Dedicated account manager"
+        ]
+      }
+    },
+    "faqs": [
+      {
+        "question": "How quickly will I see results?",
+        "answer": "Most {{city}} {{plural}} see increased calls within 30-60 days. Google Ads can drive immediate traffic, while SEO typically takes 3-6 months for full results."
+      },
+      {
+        "question": "Do you work with {{plural}} outside {{city}}?",
+        "answer": "Yes! While we specialize in {{city}} {{service}} marketing, we serve {{service}} contractors across {{province}} and Canada with localized strategies."
+      },
+      {
+        "question": "What makes you different from other marketing agencies?",
+        "answer": "We specialize exclusively in blue-collar trades. We understand your business, speak your language, and focus on generating actual jobs - not just website traffic."
+      },
+      {
+        "question": "How much should I budget for Google Ads?",
+        "answer": "We typically recommend $1,500-$3,000/month for Google Ads in {{city}}, depending on your service area and competition level."
+      }
+    ]
+  },
+  "seo_data": {
+    "meta_templates": {
+      "title": "{{trade}} Marketing {{city}} | Get 20+ New Jobs Monthly | ubiweb",
+      "description": "{{city}}'s #1 {{service}} marketing agency. Get guaranteed leads, professional website, and Google ranking. Specialized digital marketing for {{city}} {{plural}}. Call {{phone}}"
+    },
+    "schema_markup": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "ubiweb - {{city}} {{trade}} Marketing",
+      "description": "Digital marketing agency specializing in {{service}} contractor marketing in {{city}}",
+      "url": "https://{{domain}}/{{trade}}-marketing-{{city}}",
+      "telephone": "{{phone}}",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "{{city}}",
+        "addressRegion": "{{province}}",
+        "addressCountry": "Canada"
+      },
+      "areaServed": "{{city}}, {{province}}",
+      "serviceType": "{{trade}} Marketing Services"
+    }
+  },
+  "content_variations": {
+    "seasonal_adjustments": {
+      "winter": {
+        "plumber": ["frozen pipe repair", "heating system plumbing"],
+        "hvac": ["heating repair", "furnace maintenance"], 
+        "roofer": ["ice dam removal", "winter roof repairs"],
+        "landscaper": ["snow removal", "winter cleanup"],
+        "electrician": ["heating system electrical", "holiday lighting"]
+      },
+      "spring": {
+        "plumber": ["spring plumbing inspection", "outdoor plumbing"],
+        "hvac": ["AC preparation", "spring HVAC tune-up"],
+        "roofer": ["spring roof inspection", "storm damage repair"],
+        "landscaper": ["spring cleanup", "garden preparation"],
+        "electrician": ["outdoor electrical", "landscape lighting"]
+      },
+      "summer": {
+        "plumber": ["outdoor plumbing", "irrigation systems"],
+        "hvac": ["AC repair", "cooling system maintenance"],
+        "roofer": ["roof replacement", "ventilation upgrades"],
+        "landscaper": ["lawn care", "irrigation installation"],
+        "electrician": ["outdoor electrical", "pool wiring"]
+      },
+      "fall": {
+        "plumber": ["winterization services", "heating prep"],
+        "hvac": ["heating system prep", "fall maintenance"],
+        "roofer": ["gutter cleaning", "winter prep"],
+        "landscaper": ["fall cleanup", "leaf removal"],
+        "electrician": ["heating electrical", "fall safety inspection"]
+      }
+    }
+  }
+}

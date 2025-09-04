@@ -1,0 +1,24 @@
+{
+  "name": "ubiweb-programmatic-seo-template",
+  "version": "1.0.0",
+  "description": "Programmatic SEO template for ubiweb blue-collar trades marketing",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Static site - no build required'",
+    "start": "serve ."
+  },
+  "keywords": [
+    "programmatic-seo",
+    "blue-collar-marketing", 
+    "trades-marketing",
+    "plumber-marketing",
+    "ubiweb",
+    "canadian-trades"
+  ],
+  "author": "ubiweb.ca",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
